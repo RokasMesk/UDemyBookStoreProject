@@ -1,0 +1,12 @@
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll

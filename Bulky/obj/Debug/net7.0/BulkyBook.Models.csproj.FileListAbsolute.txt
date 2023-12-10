@@ -1,0 +1,12 @@
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\bin\Debug\net7.0\BulkyBook.Models.deps.json
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\bin\Debug\net7.0\BulkyBook.Models.dll
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\bin\Debug\net7.0\BulkyBook.Models.pdb
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\BulkyBook.Models.dll
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\refint\BulkyBook.Models.dll
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\BulkyBook.Models.pdb
+C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\ref\BulkyBook.Models.dll
