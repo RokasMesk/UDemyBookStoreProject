@@ -10,3 +10,15 @@ C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\Bulky.Model
 C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\refint\Bulky.Models.dll
 C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\Bulky.Models.pdb
 C:\Users\rokas\Desktop\.Net_Projects\BulkyWeb\Bulky\obj\Debug\net7.0\ref\Bulky.Models.dll
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\bin\Debug\net7.0\Bulky.Models.deps.json
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\bin\Debug\net7.0\Bulky.Models.pdb
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\obj\Debug\net7.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\obj\Debug\net7.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\obj\Debug\net7.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\obj\Debug\net7.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\obj\Debug\net7.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\obj\Debug\net7.0\Bulky.Models.dll
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\obj\Debug\net7.0\refint\Bulky.Models.dll
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\obj\Debug\net7.0\Bulky.Models.pdb
+C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky\obj\Debug\net7.0\ref\Bulky.Models.dll

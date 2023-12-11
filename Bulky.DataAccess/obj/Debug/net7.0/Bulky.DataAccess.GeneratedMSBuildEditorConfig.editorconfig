@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bulky.DataAccess
-build_property.ProjectDir = C:\Users\rokas\Desktop\.Net_Projects\UDemyBookStoreProject\BulkyWeb\Bulky.DataAccess\
+build_property.ProjectDir = C:\Users\rokas\Desktop\.Net_Projects\BookStore\Bulky.DataAccess\

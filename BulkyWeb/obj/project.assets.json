@@ -12919,11 +12919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\UDemyBookStoreProject\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+      "projectUniqueName": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\BookStore\\BulkyWeb\\BulkyWeb.csproj",
       "projectName": "BulkyWeb",
-      "projectPath": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\UDemyBookStoreProject\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+      "projectPath": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\BookStore\\BulkyWeb\\BulkyWeb.csproj",
       "packagesPath": "C:\\Users\\rokas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\UDemyBookStoreProject\\BulkyWeb\\BulkyWeb\\obj\\",
+      "outputPath": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\BookStore\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rokas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12941,8 +12941,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\rokas\\Desktop\\.Net_Projects\\UDemyBookStoreProject\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\UDemyBookStoreProject\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
+            "C:\\Users\\rokas\\Desktop\\.Net_Projects\\BookStore\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\BookStore\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
             }
           }
         }

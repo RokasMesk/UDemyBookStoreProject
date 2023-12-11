@@ -762,11 +762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\UDemyBookStoreProject\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\BookStore\\Bulky.Utility\\Bulky.Utility.csproj",
       "projectName": "Bulky.Utility",
-      "projectPath": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\UDemyBookStoreProject\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectPath": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\BookStore\\Bulky.Utility\\Bulky.Utility.csproj",
       "packagesPath": "C:\\Users\\rokas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\UDemyBookStoreProject\\BulkyWeb\\Bulky.Utility\\obj\\",
+      "outputPath": "C:\\Users\\rokas\\Desktop\\.Net_Projects\\BookStore\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rokas\\AppData\\Roaming\\NuGet\\NuGet.Config",
